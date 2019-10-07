@@ -92,7 +92,7 @@
                         <div class="todo">
                             <ul>
                                 <li class="clearfix">
-                                    <div class="txt"> Luanch This theme on Themeforest <span class="by label">Alex</span></div>
+                                    <div class="txt"> Launch This theme on Themeforest <span class="by label">Alex</span></div>
                                     <div class="pull-right"> <a class="tip" href="#" title="Edit Task"><i class="icon-pencil"></i></a> <a class="tip" href="#" title="Delete"><i class="icon-remove"></i></a> </div>
                                 </li>
                                 <li class="clearfix">
