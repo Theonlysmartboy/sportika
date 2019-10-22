@@ -48,7 +48,7 @@
                 <p class="normal_text">Enter your e-mail address below and we will send you instructions how to recover a password.</p>
                 <div class="controls">
                     <div class="main_input_box">
-                        <span class="add-on bg_lo"><i class="icon-envelope"></i></span><input type="text" placeholder="E-mail address" />
+                        <span class="add-on bg_lo"><i class="icon-envelope"></i></span><input type="text" placeholder="E-mail address"/>
                     </div>
                 </div>
                 <div class="form-actions">
